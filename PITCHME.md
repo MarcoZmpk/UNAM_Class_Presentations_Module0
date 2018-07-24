@@ -5,7 +5,7 @@
 
 ---
 
-- Link [About me:](https://www.linkedin.com/in/marco-zempoaltecatl-13772020/)
+- [About me](https://www.linkedin.com/in/marco-zempoaltecatl-13772020/)
 
 ---
 ### Temario
