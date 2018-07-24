@@ -4,7 +4,8 @@
 #### Técnicas de Programación - Ingeniería Mecatrónica
 
 ---
-![Logo](https://image-private.slidesharecdn.com/a9056f00-e048-4b71-b7b6-47348f2ed377-170115213735/95/slide-1-638.jpg?hdnea=acl=/a9056f00-e048-4b71-b7b6-47348f2ed377-170115213735/95/slide-1-638.jpg*~exp=1532401111~hmac=8ccf33833e4b486306d87d27cd85e3824a66f0e86deeb58f8ad3c2eb6adf68bb&cb=1484516257)
+
+- Link [About me:](https://www.linkedin.com/in/marco-zempoaltecatl-13772020/)
 
 ---
 ### Temario
