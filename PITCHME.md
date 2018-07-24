@@ -16,9 +16,6 @@
 - Interfaces gráficas de usuario |
 ---
 
-
-
----
 ### Questions?
 
 <br>
@@ -28,6 +25,3 @@
 @fa[github gp-contact](MarcoZmpk)
 
 @fa[phone gp-contact] 5543591761
-
----
-#### Referencias
