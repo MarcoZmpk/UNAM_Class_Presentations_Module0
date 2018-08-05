@@ -8,7 +8,7 @@
 - [About me](https://www.linkedin.com/in/marco-zempoaltecatl-13772020/)
 
 ---
-###[Temario](https://drive.google.com/open?id=1Qn4yYBEBsychBQo8Rsq_-mPY46208SN7)
+[Temario](https://drive.google.com/open?id=1Qn4yYBEBsychBQo8Rsq_-mPY46208SN7)
 
 - Importancia del software en la mecatrónica |
 - Metodología de la programación orientada a objetos |
@@ -61,6 +61,16 @@ Simulador de PAM (Parking aid module)
 Computadora - Celular (Android) - Microcontrolador/Arduino 
 
 ---
+
+#### Herramientas
+
+- Visual Studio
+- Git / GitHub
+- Android Studio
+- IDE arduino
+
+---
+
 ### Questions?
 
 <br>
