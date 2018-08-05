@@ -64,7 +64,7 @@ Computadora - Celular (Android) - Microcontrolador/Arduino
 
 #### Herramientas
 
-- @fa[microsoft](Visual Studio)
+- @fa[windows](Visual Studio)
 - @fa[github](Git / GitHub)
 - @fa[android](Android Studio)
 - @fa[microchip](IDE arduino)
