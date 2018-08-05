@@ -64,10 +64,10 @@ Computadora - Celular (Android) - Microcontrolador/Arduino
 
 #### Herramientas
 
-- Visual Studio
-- Git / GitHub
-- Android Studio
-- IDE arduino
+@fa[microsoft gp-contact] Visual Studio
+@fa[github gp-contact] Git / GitHub
+@fa[android gp-contact] Android Studio
+@fa[microchip gp-contact] IDE arduino
 
 ---
 
